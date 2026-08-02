@@ -1,0 +1,33 @@
+From 3e08915b88616485d0d0289f02a58c3ccef33752 Mon Sep 17 00:00:00 2001
+From: Thanushri <thanushrimudhiraj@gmail.com>
+Date: Sun, 2 Aug 2026 18:23:19 +0530
+Subject: [PATCH] Added line for patch demonstration
+
+---
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+diff --git a/README.md b/README.md
+index 44fdd83..800e2f9 100644
+--- a/README.md
++++ b/README.md
+@@ -7,10 +7,16 @@
+ # 
+ 
+ 
++
+ # Added by Akshaya - Collaborator 2
+ 
+ 
+ 
+ 
++
+ # Added by Thanushri
+ 
++
++
++## This line is added using Git Patch.
++
+-- 
+2.55.0.windows.2
+
